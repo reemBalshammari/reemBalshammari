@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Reem Alshammari
 
-<!--
-**reemBalshammari/reemBalshammari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Graduate
 
-Here are some ideas to get you started:
+💻 ASP.NET Core MVC Trainee at Tuwaiq Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Saudi Arabia
+
+🌸 About Me
+
+Computer Science and Engineering graduate with practical experience in software development, data analysis, and IT systems. Passionate about web development and building practical projects while continuously developing my technical skills.
+
+🛠️ Languages & Tools
+
+- C#
+- ASP.NET Core MVC
+- HTML
+- CSS
+- Bootstrap
+- SQL Server
+- Python
+- Power BI
+- Git
+- GitHub
+
+🔗 Contact
+
+- LinkedIn: https://www.linkedin.com/in/reem-buraykan-alshammari
+- GitHub: github.com/reemBalshammari
