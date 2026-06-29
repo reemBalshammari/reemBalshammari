@@ -33,9 +33,11 @@ Computer Science & Engineering · AI Engineering · Data Engineering · Software
 
 ### Experience
 
-![Ministry of Commerce](https://img.shields.io/badge/Ministry_of_Commerce-1D3557?style=flat&logoColor=white)
-![KFMC](https://img.shields.io/badge/King_Fahad_Medical_City-006400?style=flat&logoColor=white)
-![Tuwaiq Academy](https://img.shields.io/badge/Tuwaiq_Academy_·_ASP.NET_Core_MVC_Trainee-0077B6?style=flat&logo=dotnet&logoColor=white)
+![Ministry of Commerce · Cooperative Training](https://img.shields.io/badge/Ministry_of_Commerce_·_Cooperative_Training-1D3557?style=flat&logoColor=white)
+
+![King Fahad Medical City · Cooperative Training](https://img.shields.io/badge/King_Fahad_Medical_City_·_Cooperative_Training-006400?style=flat&logoColor=white)
+
+![Tuwaiq Academy · ASP.NET Core MVC Trainee](https://img.shields.io/badge/Tuwaiq_Academy_·_ASP.NET_Core_MVC_Trainee-0077B6?style=flat&logo=dotnet&logoColor=white)
 
 ### Community
 
