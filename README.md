@@ -4,7 +4,7 @@
 
 *CS & Engineering Graduate · Saudi Arabia*
 
-"Engineering ideas into solutions that shape the future."
+"Engineering ideas into solutions that shape the future"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-buraykan-alshammari)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reembrykan@gmail.com)
@@ -20,7 +20,6 @@ Computer Science & Engineering · AI Engineering · Data Engineering · Software
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -42,6 +41,6 @@ Computer Science & Engineering · AI Engineering · Data Engineering · Software
 
 ![SDC](https://img.shields.io/badge/Saudi_Developers_Community_·_Leader,_Tech_%26_Dev_Committee-2D6A5B?style=flat&logoColor=white)
 
-Delivered a hands-on Power BI & Excel data analysis workshop — wrote the practical content and presented it live to 600 participants.
+Delivered a hands-on Power BI & Excel data analysis workshop, where I developed the practical content and led the session for 600+ participants.
 
 </div>
